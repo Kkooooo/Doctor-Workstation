@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2fa59776-013c-41e7-8228-b3665a1a09de": {
+      "ProjectGuid": "2fa59776-013c-41e7-8228-b3665a1a09de",
+      "DisplayName": "医生工作站",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
